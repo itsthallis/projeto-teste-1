@@ -1,0 +1,12 @@
+{
+    "posts": [
+      { "id": 1, "title": "json-server0", "author": "Leleu", "img": "https://images-na.ssl-images-amazon.com/images/I/61YVqHdFRxL._AC_SY355_.jpg" },
+      { "id": 2, "title": "json-server1", "author": "foo bar", "img": "https://i.ebayimg.com/images/g/9TsAAOSwrY9a4bwO/s-l400.jpg" },
+      { "id": 3, "title": "json-server2", "author": "John Doe", "img": "https://www.gizmochina.com/wp-content/uploads/2019/08/LG-K40S-500x500.jpg" },
+      { "id": 4, "title": "json-server3", "author": "Thallis", "img": "https://i.gadgets360cdn.com/products/large/1559020725_635_moto_z4.jpg" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
